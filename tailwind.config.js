@@ -7,7 +7,7 @@ module.exports = {
         azul: {
           claro: "#C5DFFF",
           escuro: "#061E3C",
-          hover: "#1057B0",
+          hover: '#1057B0',
         },
       },
       fontFamily: {
