@@ -4,6 +4,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        fundo:{
+          header:,
+          body:,
+        },
         azul: {
           claro: "#C5DFFF",
           escuro: "#061E3C",
